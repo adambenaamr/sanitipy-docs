@@ -15,7 +15,7 @@ const banner = <Banner storageKey="some-key">Nextra 4.0 is released 🎉</Banner
 const navbar = (
   <Navbar
     logo={
-      <Image src={Logo} alt="SanitiPy logo" height={200} width={200}></Image>
+      <Image src={Logo} alt="SanitiPy logo" height={150} width={150}></Image>
     }
     // ... Your additional navbar options
   />
